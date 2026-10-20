@@ -29,8 +29,3 @@ Mulai dari pelacak pengeluaran, aplikasi laundry, sampai API untuk app mobile ka
 | [StudyConnect-API](https://github.com/Zierch/StudyConnect-API) | 🎓 REST API untuk aplikasi mobile StudyConnect (bidang studi, tugas akhir SMK) | PHP |
 | [Apl-Katalog](https://github.com/Zierch/Apl-Katalog) | 📦 Aplikasi katalog sederhana | Java |
 ---
-
-## 📊 Statistik GitHub
-
-![Zierch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zierch&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zierch&layout=compact&hide_border=true)
