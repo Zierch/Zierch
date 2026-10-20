@@ -28,8 +28,6 @@ Mulai dari pelacak pengeluaran, aplikasi laundry, sampai API untuk app mobile ka
 | [expense_tracker](https://github.com/Zierch/expense_tracker) | 🧾 Pelacak pengeluaran & pemasukan Android — backup JSON bulanan ke Google Drive sendiri | Flutter |
 | [StudyConnect-API](https://github.com/Zierch/StudyConnect-API) | 🎓 REST API untuk aplikasi mobile StudyConnect (bidang studi, tugas akhir SMK) | PHP |
 | [Apl-Katalog](https://github.com/Zierch/Apl-Katalog) | 📦 Aplikasi katalog sederhana | Java |
-| [Laundry-App](https://github.com/Zierch/Laundry-App) | 🧺 Aplikasi kelola usaha laundry | HTML |
-
 ---
 
 <!-- Statistik (aktifin lagi kalau mau tampil) -->
