@@ -6,7 +6,7 @@ Mulai dari pelacak pengeluaran, aplikasi laundry, sampai API untuk app mobile ka
 - 🔭 Sedang kerjakan: **expense tracker** dengan backup otomatis ke Google Drive
 - 🌱 Lagi ningkatin: **backend & database** (PHP, SQL)
 - 🏫 Landasan: **tugas akhir SMK** — StudyConnect, aplikasi mobile + REST API
-- 📫 Hubungi aku: lewat [GitHub Issues](https://github.com/Zierch) atau LinkedIn (nanti ditambahin)
+- 📫 Hubungi aku: lewat [GitHub Issues](https://github.com/Zierch)
 
 ---
 
