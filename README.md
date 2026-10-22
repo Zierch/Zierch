@@ -1,7 +1,7 @@
 # Hai, aku Zierch 👋
 
-Mahasiswa yang suka **bikin aplikasi berguna** — terutama buat usaha kecil.
-Mulai dari pelacak pengeluaran, aplikasi laundry, sampai API untuk app mobile kampus/sekolah.
+Mahasiswa yang suka **bikin aplikasi berguna** — dari aplikasi mobile, REST API, sampai olah data.
+Fokus di Flutter, PHP, dan SQL, dengan pengalaman mengerjakan proyek dari skala tugas sampai aplikasi siap pakai.
 
 - 🔭 Sedang kerjakan: **expense tracker** dengan backup otomatis ke Google Drive
 - 🌱 Lagi ningkatin: **backend & database** (PHP, SQL)
@@ -28,4 +28,3 @@ Mulai dari pelacak pengeluaran, aplikasi laundry, sampai API untuk app mobile ka
 | [expense_tracker](https://github.com/Zierch/expense_tracker) | 🧾 Pelacak pengeluaran & pemasukan Android — backup JSON bulanan ke Google Drive sendiri | Flutter |
 | [StudyConnect-API](https://github.com/Zierch/StudyConnect-API) | 🎓 REST API untuk aplikasi mobile StudyConnect (bidang studi, tugas akhir SMK) | PHP |
 | [Apl-Katalog](https://github.com/Zierch/Apl-Katalog) | 📦 Aplikasi katalog sederhana | Java |
----
