@@ -6,6 +6,7 @@ Fokus di Flutter, PHP, dan SQL, dengan pengalaman mengerjakan proyek dari skala 
 - 🔭 Sedang kerjakan: **StudyConnect** — menyambungkan sisa fitur ke API-nya
 - 🌱 Lagi ningkatin: **backend & database** (PHP, SQL)
 - 🏫 Landasan: **tugas akhir SMK** — StudyConnect, aplikasi mobile + REST API
+- 🌐 Portofolio: **[zierch.github.io/portfolio](https://zierch.github.io/portfolio/)**
 - 📫 Hubungi aku: lewat [GitHub Issues](https://github.com/Zierch)
 
 ---
