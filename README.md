@@ -1,7 +1,7 @@
 # Hai, aku Zierch 👋
 
 Mahasiswa yang suka **bikin aplikasi berguna** — dari aplikasi mobile, REST API, sampai olah data.
-Fokus di Flutter, Python, dan SQL, dengan pengalaman mengerjakan proyek dari aplikasi siap pakai sampai penelitian yang terbit.
+Fokus di Flutter, Python, dan SQL, dengan pengalaman mengerjakan proyek dari aplikasi siap pakai sampai olah data.
 
 - 🔭 Sedang kerjakan: proyek-proyek pribadi di luar kuliah
 - 🌱 Lagi ningkatin: **backend & database** (PHP, SQL)
@@ -27,6 +27,5 @@ Fokus di Flutter, Python, dan SQL, dengan pengalaman mengerjakan proyek dari apl
 
 | Proyek | Apa ini | Stack |
 |---|---|---|
-| [olist-sql-efficiency](https://github.com/Zierch/olist-sql-efficiency) | 🔬 Penelitian performa query SQL pada dataset Olist — 5 konfigurasi indeks × 18 query, terbit di ITIJ. Ada paket reproduksi lengkap | Python · MySQL |
 | [expense_tracker](https://github.com/Zierch/expense_tracker) | 🧾 Pelacak pengeluaran & pemasukan Android — backup JSON bulanan ke Google Drive sendiri, ada APK rilis | Flutter |
 | [portfolio](https://github.com/Zierch/portfolio) | 🌐 Situs portfolio — HTML + CSS tanpa framework, live di [zierch.github.io/portfolio](https://zierch.github.io/portfolio/) | HTML · CSS |
