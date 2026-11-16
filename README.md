@@ -27,5 +27,5 @@ Fokus di Flutter, Python, dan SQL, dengan pengalaman mengerjakan proyek dari apl
 
 | Proyek | Apa ini | Stack |
 |---|---|---|
-| [expense_tracker](https://github.com/Zierch/expense_tracker) | 🧾 Pelacak pengeluaran & pemasukan Android — backup JSON bulanan ke Google Drive sendiri, ada APK rilis | Flutter |
+| [expense_tracker](https://github.com/Zierch/expense_tracker) | 🧾 Pelacak pengeluaran & pemasukan Android — backup JSON ke Google Drive sendiri (per bulan atau seluruh riwayat), ada APK rilis | Flutter |
 | [portfolio](https://github.com/Zierch/portfolio) | 🌐 Situs portfolio — HTML + CSS tanpa framework, live di [zierch.github.io/portfolio](https://zierch.github.io/portfolio/) | HTML · CSS |
