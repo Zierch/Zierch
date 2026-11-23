@@ -26,6 +26,7 @@ Fokus di Flutter, PHP, dan SQL, dengan pengalaman dari tugas sekolah sampai apli
 
 | Proyek | Apa ini | Stack |
 |---|---|---|
+| [Expense Tracker Web](https://expense-tracker-web-ruddy-sigma.vercel.app) | 🌐 Versi web Expense Tracker — dashboard & statistik, data di Supabase dengan RLS per akun; [kode](https://github.com/Zierch/expense_tracker) | Flutter Web · Supabase |
 | [expense_tracker](https://github.com/Zierch/expense_tracker) | 🧾 Pelacak pengeluaran & pemasukan Android — backup JSON ke Google Drive sendiri (per bulan atau seluruh riwayat), ada APK rilis | Flutter |
 | [device-point](https://github.com/Zierch/device-point) | 📦 Katalog produk Android — CRUD, cari & urutkan, unggah foto, tema gelap, [APK rilis](https://github.com/Zierch/device-point/releases/latest) | Java |
 | [StudyConnect](https://github.com/Zierch/StudyConnect) | 🎓 Aplikasi kelas guru & siswa — login dan baca data dari [REST API](https://github.com/Zierch/StudyConnect-API); fitur tulis belum tersedia | Java · PHP |
