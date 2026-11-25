@@ -7,7 +7,7 @@ Fokus di Flutter, PHP, dan SQL, dengan pengalaman dari tugas sekolah sampai apli
 - 🌱 Lagi ningkatin: **backend & database** (PHP, SQL)
 - 🏫 Kuliah: **S1 Informatika, UPN Veteran Jawa Timur**
 - 🌐 Portfolio: **[zierch.github.io/portfolio](https://zierch.github.io/portfolio/)**
-- 📫 Hubungi aku: lewat [GitHub Issues](https://github.com/Zierch)
+- 📫 Hubungi aku: [zierch.dev@gmail.com](mailto:zierch.dev@gmail.com)
 
 ---
 
